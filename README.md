@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente trabalho como estágiario. 
 - 🌱 Estou estudando desenvolvimento web, buscando uma vaga como desenvolvedor.
-- 👯 Participei do processo de mentoria do Grupo Meetanços
+- 🐱‍🚀 Participei do processo de mentoria do Grupo Meetanços
 - 📫 Como entrar em contato comigo: alexsandrofrizon21@gmail.com / @alexsandrofrizon
 - ⚡ Fato engraçado: Detesto que cantem parabéns pra mim. 
  
