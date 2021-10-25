@@ -19,7 +19,7 @@
   <img align="center" alt="alex-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="alex-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="alex-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="alex-yoda" height="200" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F649503577501002518%2F&psig=AOvVaw3VukO1BLIu4aS4lpYv9vv8&ust=1635209712020000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCICS9aCt5PMCFQAAAAAdAAAAABAa">
+  <img align="right" alt="alex-yoda" height="200" width="400" src="https://hanashir.files.wordpress.com/2012/12/d8c03-ichigo_e_isshin.jpg">
 </div>
   
  <br>
