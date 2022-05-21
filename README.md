@@ -19,8 +19,7 @@
   <img align="center" alt="alex-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="alex-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="alex-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="alex[Perfil_img]" height="200" width="400" src="![image](https://user-images.githubusercontent.com/83145774/169626488-9c0f8b5c-6870-49d5-9dfc-0dd860b7eb2e.png)
-">
+  <img align="right" alt="alex[Perfil_img]" height="200" width="400" src="https://c.tenor.com/rVTG4HW7d_AAAAAM/studying-absorb-knowledge.gif">
 </div>
   
  <br>
