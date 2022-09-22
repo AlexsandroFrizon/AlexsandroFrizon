@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Atualmente trabalho como estágiario. 
+- 🔭 Atualmente trabalho como tecnico de TI. 
 - 🌱 Estou estudando desenvolvimento web, buscando uma vaga como desenvolvedor.
 - 🐱‍🚀 Participei do processo de mentoria do Grupo Meetanços
 - 📫 Como entrar em contato comigo: alexsandrofrizon21@gmail.com / @alexsandrofrizon
