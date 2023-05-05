@@ -19,7 +19,7 @@
   <img align="center" alt="alex-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="alex-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="alex-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="alex[Perfil_img]" height="200" width="400" src="https://i.pinimg.com/736x/4f/60/77/4f60773553df330100af28b74c3091fb.jpg">
+  <img align="right" alt="alex[Perfil_img]" height="200" width="400" src="https://i.pinimg.com/564x/bc/8c/03/bc8c03ba12f286713f826efc3b908e0f.jpg">
 </div>
   
  <br>
