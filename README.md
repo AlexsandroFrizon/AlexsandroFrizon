@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Atualmente trabalho como Analista de suporte N2 de TI na empresa Spark. 
+- 🔭 Atualmente trabalho como Tecnico de serviços Cloud na TOTVS 
 - 🌱 Estou estudando desenvolvimento web, buscando uma vaga como desenvolvedor.
 - 🐱‍🚀 Participei do processo de mentoria do Grupo Meetanços
 - 📫 Como entrar em contato comigo: alexsandrofrizon21@gmail.com / @alexsandrofrizon
